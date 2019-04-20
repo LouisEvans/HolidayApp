@@ -1,4 +1,4 @@
-# test_flutter
+# Holiday App
 
 A Flutter app to display Landmarks in Italy
 
