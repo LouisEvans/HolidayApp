@@ -1,16 +1,5 @@
 # test_flutter
 
-A new Flutter project.
+A Flutter app to display Landmarks in Italy
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://scontent.fbrs1-1.fna.fbcdn.net/v/t1.15752-9/s2048x2048/57839997_621372428339278_1058934206987501568_n.png?_nc_cat=110&_nc_ht=scontent.fbrs1-1.fna&oh=dc12d90267914c9c254f2df277f1f6a4&oe=5D386184)
